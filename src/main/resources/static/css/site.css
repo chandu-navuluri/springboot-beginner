@@ -8,6 +8,10 @@ h5 {
     color: green;
 }
 h4 {
-    color: orange;
+    color: blue;
     font-size: 20px;
+}
+h6 {
+    color: rgb(255, 0, 217);
+    font-size: 18px;
 }
